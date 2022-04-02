@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-white{
+    padding-left: 30px;
+    margin-left: 5px;
+    margin-bottom: 3em;
+    font-size: 60px;
+}
+ .navbar{
+    background-color: rgb(21, 1, 116);
+    color: white;
+}
+.navbar-brand p{
+    margin: 20px 40px;
+    color: white;
+}
+
+.cards {
+  /* padding-top: 5px; */
+  margin-bottom: 15px;
+  align-items: center;
+  text-align: center;
+  border-radius: 50px;
+}
+.btn1, .btn2, .btn3, .btn4, .btn5{
+    background-color: rgb(47, 6, 143);
+}
+
+.cards, .card1, .card2, .card3, .card4, .card5, .btn1, .btn2, .btn3, .btn4, .btn5 {
+  border: #4e54c8;
+  border: 70px;
+  border-radius: 15px;
+  text-decoration: none;
+  margin: 20px 0px;
+  height: 100px;
+  width: 100%;
+  cursor: grab;
+}
